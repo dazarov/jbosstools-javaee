@@ -8,12 +8,12 @@
  * Contributors: 
  * Red Hat, Inc. - initial API and implementation 
  ******************************************************************************/
-package org.jboss.tools.cdi.ui.preferences;
+package org.jboss.tools.cdi.ui.handlers;
 
 /**
  * @author Alexey Kazakov
  */
-public class RemoveCDISupportAction extends AddCDISupportAction {
+public class RemoveCDISupportHandler extends AddCDISupportHandler {
 
 	/* (non-Javadoc)
 	 * @see org.jboss.tools.cdi.ui.preferences.AddCDISupportAction#shouldEnable()
